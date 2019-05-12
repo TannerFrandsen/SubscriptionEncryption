@@ -16,5 +16,10 @@ namespace SubscriptionEncryption
             Name = name;
             IsSubscribed = isSubscribed;
         }
+        private Subscription()
+        {
+            Name = "";
+            IsSubscribed = false;
+        }
     }
 }

@@ -1,1 +1,11 @@
 H:\SWE1Resumes\SubscriptionEncryption\SubscriptionEncryption\bin\Debug\SubscriptionEncryption.exe.config
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\bin\Debug\SubscriptionEncryption.exe.config
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\bin\Debug\SubscriptionEncryption.exe
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\bin\Debug\SubscriptionEncryption.pdb
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\bin\Debug\SubscriptionUtility.dll
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\bin\Debug\SubscriptionUtility.xml
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\obj\Debug\SubscriptionEncryption.csprojAssemblyReference.cache
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\obj\Debug\SubscriptionEncryption.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\obj\Debug\SubscriptionEncryption.csproj.CopyComplete
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\obj\Debug\SubscriptionEncryption.exe
+C:\Users\Tanner\Desktop\SubscriptionEncryptionReal\SubscriptionEncryption\obj\Debug\SubscriptionEncryption.pdb
